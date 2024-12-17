@@ -1,4 +1,3 @@
-<!-- ! Do not delete or rename this file! -->
 <h1>
   <span class="prefix"></span>
   <span class="headline">What Browser Do You Use and Why?</span>
@@ -12,5 +11,5 @@ This module is used for a discussion topic. Students will be able to compare dif
 
 | Lesson | Est. Delivery Time | Skills |
 | ------ |:------------------:| ------ |
-| [What Browser Do You Use and Why?](../what-browser-do-you-use/README.md) | 15 min | Learn browser types and benefits               |
+| [What Browser Do You Use and Why?](./what-browser-do-you-use/README.md) | 15 min | Learn browser types and benefits               |
 | **Total content**                                   | 15 min |                                     |
