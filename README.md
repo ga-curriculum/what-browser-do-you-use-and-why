@@ -11,8 +11,12 @@ This module is used for a discussion topic. Students will be able to compare dif
 
 | Lesson | Est. Delivery Time | Skills |
 | ------ |:------------------:| ------ |
-| [What Browser Do You Use and Why?](./what-browser-do-you-use/README.md) | 15 min | Learn browser types and benefits               |
-| **Total content**                                   | 15 min |                                     |
+| [Discussion: The Browser Wars](./discussion-the-browser-wars/README.md) | 30 min | Discuss the different types of web browsers and compare them to one another. |
+| **Total content**                                                       | 30 min |                                                                              |
+
+## References
+
+📖 [Reference Materials](./references/README.md)
 
 ## Internal
 
@@ -22,8 +26,8 @@ This module is used for a discussion topic. Students will be able to compare dif
 
 ### Course landing pages
 
-- [ITB - IT Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/what-browser-do-you-use/canvas-landing-pages/itb.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/what-browser-do-you-use/canvas-landing-pages/fallback.html)
+- [ITB - IT Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/what-browser-do-you-use-and-why/canvas-landing-pages/itb.html)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/what-browser-do-you-use-and-why/canvas-landing-pages/fallback.html)
 
 ### Resources
 

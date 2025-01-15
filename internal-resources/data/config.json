@@ -5,7 +5,7 @@
   },
   "repo": {
     "friendlyName": "What Browser Do You Use and Why?",
-    "name": "what-browser-do-you-use",
+    "name": "what-browser-do-you-use-and-why",
     "type": "Lesson",
     "about": "",
     "starterCode": "",
@@ -14,14 +14,14 @@
   },
   "courses": [
     {
-      "name": "fallback",
+      "name": "itb",
       "courseAcronym": "",
       "courseFullName": "",
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "What Browser Do You Use?",
-          "dirName": "what-browser-do-you-use",
+          "friendlyName": "Discussion: The Browser Wars",
+          "dirName": "discussion-the-browser-wars",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -53,14 +53,14 @@
       "isActivityTimeShown": true
     },
     {
-      "name": "itb",
+      "name": "fallback",
       "courseAcronym": "",
       "courseFullName": "",
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "What Browser Do You Use?",
-          "dirName": "what-browser-do-you-use",
+          "friendlyName": "Discussion: The Browser Wars",
+          "dirName": "discussion-the-browser-wars",
           "type": "Content",
           "skill": "",
           "learningObjective": "",

@@ -2,9 +2,9 @@ import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/univer
 
 // Add microlessons here, in the order they should be delivered
 
-whatBrowserDoYouUse = new Template.Microlesson {
-  friendlyName = "What Browser Do You Use?"
-  dirName = "what-browser-do-you-use"
+discussionTheBrowserWars = new Template.Microlesson {
+  friendlyName = "Discussion: The Browser Wars"
+  dirName = "discussion-the-browser-wars"
   type = "Content"
   videoUrl = ""
 }

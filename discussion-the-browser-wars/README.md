@@ -1,6 +1,6 @@
 <h1>
   <span class="headline">What Browser Do You Use and Why?</span>
-  <span class="subhead"></span>
+  <span class="subhead">Discussion: The Browser Wars</span>
 </h1>
 
 **Learning objective:** By the end of this lesson, students will be able to compare different web browsers based on their features, security capabilities, and resource usage to make informed decisions about which browser best suits their needs.

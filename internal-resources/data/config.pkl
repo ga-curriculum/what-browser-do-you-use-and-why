@@ -14,24 +14,24 @@ repo {
   // This name is shown in the header nav to navigate users home
   friendlyName = "What Browser Do You Use and Why?"
   // This must match the repo name as it appears on GitHub exactly
-  name = "what-browser-do-you-use"
+  name = "what-browser-do-you-use-and-why"
   type = "Lesson"
 }
 
 courses {
   new {
+    name = "itb"
+    microlessons {
+      // Add microlessons here, in the order they should be delivered
+      mls.discussionTheBrowserWars
+    }        
+  }
+  new {
     // Do not remove this fallback course!
     name = "fallback"
     microlessons {
       // Add microlessons here, in the order they should be delivered
-      mls.whatBrowserDoYouUse
+      mls.discussionTheBrowserWars
     }
-  }
-    new {
-    name = "itb"
-    microlessons {
-      // Add microlessons here, in the order they should be delivered
-      mls.whatBrowserDoYouUse
-    }        
   }
 }
