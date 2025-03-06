@@ -5,7 +5,7 @@
 
 ## About
 
-This module is used for a discussion topic. Students will be able to compare different web browsers based on their features, security capabilities, and resource usage to make informed decisions about which browser best suits their needs.
+In this module, students will discuss different web browsers based on their features, security capabilities, and resource usage to help them make informed decisions about which browser best suits their needs.
 
 ## Content
 

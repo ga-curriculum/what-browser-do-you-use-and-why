@@ -3,9 +3,9 @@
   <span class="subhead">Release Notes</span>
 </h1>
 
-## Version 1.0 - New release
+## Version 1.0 - New
 
-This is a brand new module!
+This is a brand new addition to our curriculum library!
 
 ### Release details
 
