@@ -26,8 +26,8 @@ In this module, students will discuss different web browsers based on their feat
 
 ### Course landing pages
 
-- [ITB - IT Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/what-browser-do-you-use-and-why/canvas-landing-pages/itb.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/what-browser-do-you-use-and-why/canvas-landing-pages/fallback.html)
+- [ITB - IT Bootcamp](https://ga-curriculum.github.io/what-browser-do-you-use-and-why/canvas-landing-pages/itb.html)
+- [Fallback](https://ga-curriculum.github.io/what-browser-do-you-use-and-why/canvas-landing-pages/fallback.html)
 
 ### Resources
 
@@ -39,4 +39,4 @@ In this module, students will discuss different web browsers based on their feat
 
 ---
 
-**Find a 👾 bug 👾 or have suggestions? [Let us know](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/module-feedback.html)!**
+**Find a 👾 bug 👾 or have suggestions? [Let us know](https://ga-curriculum.github.io/universal-resources-internal/module-feedback.html)!**
